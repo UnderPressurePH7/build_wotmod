@@ -1,6 +1,6 @@
 $PythonExe = "C:\Python27\python.exe"
 $PackerUser = "me.under_pressure"
-$PackerName = "nicknamechanger"
+$PackerName = "modname"
 $PackerVersion = "0.0.1"
 $PackerDescription = "None"
 
